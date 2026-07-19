@@ -6,6 +6,10 @@
 
 Covers: the agentic firm operating model; the stack (Claude Code/OpenCode/Codex + Xero/XPM/ATO via MCP); the firm constitution files; the toolkit (skills/hooks/MCP/plugins/subagents) at firm scale; the operating lifecycle mapped to agents (bank rec, AR/AP, invoicing, expenses, payroll/STP, super, GST/BAS); the month-end and year-end close as multi-agent workflows; client lifecycle, onboarding, OCR document intake, offboarding; the workpaper and audit-trail spine (traceability); management reporting and cash flow; segregation of duties, human gates (H1/H2/H3), and professional liability/PI insurance; capacity planning, value pricing, and the 2027 firm. Does NOT give tax, financial product, or legal advice and does not replace the firm's registration or professional judgement.
 
+## Read Online
+
+Read the book in the browser on the dedicated website: [https://imehr.github.io/the-agentic-accounting-firm-site/](https://imehr.github.io/the-agentic-accounting-firm-site/). The web version is the best place to browse chapters and share the book; this repository holds the downloadable editions.
+
 ## Download
 
 | Format | File |
