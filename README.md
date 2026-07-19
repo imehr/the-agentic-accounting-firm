@@ -12,12 +12,15 @@ Read the book in the browser on the dedicated website: [https://imehr.github.io/
 
 ## Download
 
+All formats are attached to the [v0.1.0 GitHub Release](https://github.com/imehr/the-agentic-accounting-firm/releases/tag/the-agentic-accounting-firm-v0.1.0) ([latest](https://github.com/imehr/the-agentic-accounting-firm/releases/latest)).
+
+
 | Format | File |
 |--------|------|
-| Paged HTML Preview | [the-agentic-accounting-firm-paged.html](the-agentic-accounting-firm-paged.html) |
-| ePub | [the-agentic-accounting-firm.epub](the-agentic-accounting-firm.epub) |
-| HTML | [the-agentic-accounting-firm.html](the-agentic-accounting-firm.html) |
-| PDF | [the-agentic-accounting-firm.pdf](the-agentic-accounting-firm.pdf) |
+| Paged HTML Preview | [the-agentic-accounting-firm-paged.html](https://github.com/imehr/the-agentic-accounting-firm/releases/download/the-agentic-accounting-firm-v0.1.0/the-agentic-accounting-firm-paged.html) |
+| ePub | [the-agentic-accounting-firm.epub](https://github.com/imehr/the-agentic-accounting-firm/releases/download/the-agentic-accounting-firm-v0.1.0/the-agentic-accounting-firm.epub) |
+| HTML | [the-agentic-accounting-firm.html](https://github.com/imehr/the-agentic-accounting-firm/releases/download/the-agentic-accounting-firm-v0.1.0/the-agentic-accounting-firm.html) |
+| PDF | [the-agentic-accounting-firm.pdf](https://github.com/imehr/the-agentic-accounting-firm/releases/download/the-agentic-accounting-firm-v0.1.0/the-agentic-accounting-firm.pdf) |
 
 ## What This Book Covers
 
